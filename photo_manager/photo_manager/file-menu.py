@@ -1,1 +1,0 @@
-# logik für auslesen von dateien
