@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2e598c-ddce-42ab-9fcb-efe028cbcbc3" name="Changes" comment="restart">
-      <change afterPath="$PROJECT_DIR$/.idea/learning-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cf2e598c-ddce-42ab-9fcb-efe028cbcbc3" name="Changes" comment="strings beginning">
+      <change afterPath="$PROJECT_DIR$/OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/.idea/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/task_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701331183683</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="strings beginning">
+      <option name="closed" value="true" />
+      <created>1704894413021</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704894413021</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +190,7 @@
     <MESSAGE value="conditions done" />
     <MESSAGE value="lists done" />
     <MESSAGE value="restart" />
-    <option name="LAST_COMMIT_MESSAGE" value="restart" />
+    <MESSAGE value="strings beginning" />
+    <option name="LAST_COMMIT_MESSAGE" value="strings beginning" />
   </component>
 </project>
