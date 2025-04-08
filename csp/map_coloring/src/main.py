@@ -1,5 +1,5 @@
 from csp import CSP
-from MapColoringConstraint import MapColoringConstraint
+from map_coloring_constraint import MapColoringConstraint
 from typing import Dict, List, Optional
 
 
